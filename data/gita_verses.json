@@ -1,0 +1,23 @@
+[
+  {
+    "theme": "mind",
+    "ref": "Bhagavad Gita 6.5",
+    "shlok": "उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत् ।",
+    "meaning": "स्वतःचा उद्धार स्वतःच्या प्रयत्नांनी करावा; स्वतःला कमी लेखत बसू नये.",
+    "tags": ["mind", "self", "depression", "hope", "motivation", "sad", "tension"]
+  },
+  {
+    "theme": "work",
+    "ref": "Bhagavad Gita 2.47",
+    "shlok": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+    "meaning": "तुला फक्त कर्म करण्याचा अधिकार आहे, फळावर नाही. आपले कर्तव्य प्रामाणिकपणे कर, परिणामावर जास्त ताण घेऊ नको.",
+    "tags": ["work", "duty", "result", "job", "career", "exam", "study"]
+  },
+  {
+    "theme": "relations",
+    "ref": "Bhagavad Gita 12.13",
+    "shlok": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।",
+    "meaning": "जो सर्व प्राण्यांबद्दल द्वेष ठेवत नाही, मैत्रीपूर्ण आणि करुणावान असतो तो प्रिय असतो.",
+    "tags": ["relations", "friend", "family", "love", "forgiveness"]
+  }
+]
