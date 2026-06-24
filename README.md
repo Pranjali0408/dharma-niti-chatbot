@@ -3,7 +3,7 @@
 DharmaNiti is a lightweight web-based chatbot that provides simple, safe guidance inspired by **Bhagavad Gita** and **Chanakya Niti**.  
 It uses a Flask backend and HTML/CSS/JavaScript frontend.[page:0]
 
-## Features
+## Features 
 
 - **Indian wisdom answers**  
   - For each user question, the bot returns a relevant Bhagavad Gita verse + explanation.  
